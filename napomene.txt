@@ -1,0 +1,4 @@
+Extenzije:
+
+Live server
+Prettier code formater
